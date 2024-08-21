@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+             State.PrintStates();
+
+             State.PrintStatesByFirstChar();
+
+             Inventory.CreateNewInventory();
+                       
         }
     }
 }

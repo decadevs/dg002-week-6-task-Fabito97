@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-6-task-fabito97\\dgnet002_week6_task\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|solutionrelative:dgnet002_week6_task\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-6-task-fabito97\\dgnet002_week6_task\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|solutionrelative:dgnet002_week6_task\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-6-task-fabito97\\dgnet002_week6_task\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|solutionrelative:dgnet002_week6_task\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-6-task-fabito97\\dgnet002_week6_task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|solutionrelative:dgnet002_week6_task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-6-task-fabito97\\dgnet002_week6_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB654BA-A7ED-430B-BF5B-52F035BFF13E}|DGNet002_Week6_Task\\DGNet002_Week6_Task.csproj|solutionrelative:dgnet002_week6_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\State.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week6_Task\\State.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\State.cs",
+              "RelativeToolTip": "DGNet002_Week6_Task\\State.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:11:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Sale.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week6_Task\\Sale.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Sale.cs",
+              "RelativeToolTip": "DGNet002_Week6_Task\\Sale.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:06:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Inventory.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week6_Task\\Inventory.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Inventory.cs",
+              "RelativeToolTip": "DGNet002_Week6_Task\\Inventory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:04:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Item.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week6_Task\\Item.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Item.cs",
+              "RelativeToolTip": "DGNet002_Week6_Task\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:56:18.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Program.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week6_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-6-task-Fabito97\\DGNet002_Week6_Task\\Program.cs",
+              "RelativeToolTip": "DGNet002_Week6_Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:55:15.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

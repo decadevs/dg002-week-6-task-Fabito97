@@ -1,0 +1,15 @@
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.AssemblyInfoInputs.cache
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.AssemblyInfo.cs
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.sourcelink.json
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\bin\Debug\net8.0\DGNet002_Week6_Task.exe
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\bin\Debug\net8.0\DGNet002_Week6_Task.deps.json
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\bin\Debug\net8.0\DGNet002_Week6_Task.runtimeconfig.json
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\bin\Debug\net8.0\DGNet002_Week6_Task.dll
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\bin\Debug\net8.0\DGNet002_Week6_Task.pdb
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.dll
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\refint\DGNet002_Week6_Task.dll
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.pdb
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\DGNet002_Week6_Task.genruntimeconfig.cache
+C:\Users\FABIAN\Desktop\DecagonTask\dg002-week-6-task-Fabito97\DGNet002_Week6_Task\obj\Debug\net8.0\ref\DGNet002_Week6_Task.dll
