@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGNet002_Week6_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab889c04c37afce7e63b2430fe99ee34ebce10b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d780d41d25471b423f261a172cad0fc1fd54244")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGNet002_Week6_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGNet002_Week6_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
